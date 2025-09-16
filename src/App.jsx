@@ -75,7 +75,7 @@ export default function App() {
         {/* LinkCard */}
         <LinkCard href="https://www.youtube.com/@Ahmad_Noor-PNPL" label="Youtube" />
         <LinkCard href="https://www.instagram.com/ahmad_noor0_0" label="Instagram" />
-        <LinkCard href="https://tiktok.com" label="Tiktok" />
+        <LinkCard href="https://www.tiktok.com/@ahmad_noor21" label="Tiktok" />
         <LinkCard href="https://github.com/ahmad-noor21" label="Github" />
         <LinkCard href="https://saweria.co/AhmadNoor" label="Saweria" />
       </motion.div>
